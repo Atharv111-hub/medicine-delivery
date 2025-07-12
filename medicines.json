@@ -1,0 +1,18 @@
+[
+  {"id": 1, "name": "Paracetamol", "price": 20, "stock": 50, "category": "Tablet"},
+  {"id": 2, "name": "Aspirin", "price": 15, "stock": 30, "category": "Tablet"},
+  {"id": 3, "name": "Cough Syrup", "price": 60, "stock": 20, "category": "Syrup"},
+  {"id": 4, "name": "Vitamin C", "price": 25, "stock": 0, "category": "Tablet"},
+  {"id": 5, "name": "Antacid", "price": 40, "stock": 10, "category": "Syrup"},
+  {"id": 6, "name": "Ibuprofen", "price": 22, "stock": 40, "category": "Tablet"},
+  {"id": 7, "name": "Cetirizine", "price": 18, "stock": 25, "category": "Tablet"},
+  {"id": 8, "name": "Amoxicillin", "price": 55, "stock": 15, "category": "Capsule"},
+  {"id": 9, "name": "Azithromycin", "price": 65, "stock": 12, "category": "Tablet"},
+  {"id": 10, "name": "Diclofenac Gel", "price": 35, "stock": 18, "category": "Gel"},
+  {"id": 11, "name": "Loratadine", "price": 24, "stock": 22, "category": "Tablet"},
+  {"id": 12, "name": "Metformin", "price": 28, "stock": 35, "category": "Tablet"},
+  {"id": 13, "name": "Omeprazole", "price": 32, "stock": 27, "category": "Capsule"},
+  {"id": 14, "name": "ORS Sachet", "price": 10, "stock": 60, "category": "Powder"},
+  {"id": 15, "name": "Saline Nasal Spray", "price": 45, "stock": 14, "category": "Spray"}
+  
+]
